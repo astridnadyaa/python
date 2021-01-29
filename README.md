@@ -1,2 +1,2 @@
-# python
-practicing python from codecademy
+# python 
+practicing the fundamental of python from codecademy
