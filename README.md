@@ -1,2 +1,3 @@
-# python 
-practicing the fundamental of python from codecademy
+# Python Practices
+
+Practicing python basic from codecademy
